@@ -1,0 +1,11 @@
+url for the ABC Restaurant 
+http://localhost/ABCRestaurant/index.php
+
+url for the admin dashboard
+http://localhost/ABCRestaurant/admin.php
+
+admin username -admin
+addmin password-123456
+
+staff username -user
+staff password-123456
